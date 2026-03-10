@@ -29,7 +29,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logeshfg&show_icons=true&locale=en" alt="logeshfg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logeshfg&" alt="logeshfg" /></p>
-
+<table border='5px'>
+  <tr>
+    <th></th>
+    <td>
+       logeshwaran
+    </td>
+  </tr>
+</table>
 
 <!--
 **logeshfg/logeshfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
