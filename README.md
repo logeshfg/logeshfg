@@ -33,7 +33,14 @@
   <tr>
     <th></th>
     <td>
-       logeshwaran
+        NAME        : Alex Chen
+        LOCATION   : San Francisco, CA 🌉
+        ROLE        : Senior Full-Stack Engineer
+        COMPANY     : "@vercel"
+        OPEN_TO     : [collaborations, open-source, cool projects]
+        CURRENTLY   : Building neural-runtime — edge ML inference engine
+        ASK_ME_ABOUT: [TypeScript, Rust, system design, coffee ☕]
+        CONTACT     : alex@dev.io
     </td>
   </tr>
 </table>
