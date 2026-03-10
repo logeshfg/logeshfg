@@ -30,17 +30,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logeshfg&" alt="logeshfg" /></p>
 <table border='5px'>
-  <tr>
-    <th></th>
-    <td>NAME        : Alex Chen</td>
-    <td>LOCATION    : San Francisco, CA 🌉</td>
-    <td>ROLE        : Senior Full-Stack Engineer</td>
-    <td>COMPANY     : "@vercel"</td>
-    <td>OPEN_TO     : [collaborations, open-source, cool projects]</td>
-    <td>CURRENTLY   : Building neural-runtime — edge ML inference engine</td>
-    <td>ASK_ME_ABOUT: [TypeScript, Rust, system design, coffee ☕]</td>
-    <td>CONTACT     : alex@dev.io</td>     
-  </tr>
+    <tr><td>NAME        : Alex Chen</td></tr>
+    <tr><td>LOCATION    : San Francisco, CA 🌉</td></tr>
+    <tr><td>ROLE        : Senior Full-Stack Engineer</td></tr>
+    <tr><td>COMPANY     : "@vercel"</td></tr>
+    <tr><td>OPEN_TO     : [collaborations, open-source, cool projects]</td></tr>
+    <tr><td>CURRENTLY   : Building neural-runtime — edge ML inference engine</td></tr>
+    <tr><td>ASK_ME_ABOUT: [TypeScript, Rust, system design, coffee ☕]</td></tr>
+    <tr><td>CONTACT     : alex@dev.io</td></tr>     
+  
 </table>
 
 <!--
