@@ -32,16 +32,14 @@
 <table border='5px'>
   <tr>
     <th></th>
-    <td>
-        NAME        : Alex Chen
-        LOCATION   : San Francisco, CA 🌉
-        ROLE        : Senior Full-Stack Engineer
-        COMPANY     : "@vercel"
-        OPEN_TO     : [collaborations, open-source, cool projects]
-        CURRENTLY   : Building neural-runtime — edge ML inference engine
-        ASK_ME_ABOUT: [TypeScript, Rust, system design, coffee ☕]
-        CONTACT     : alex@dev.io
-    </td>
+    <td>NAME        : Alex Chen</td>
+    <td>LOCATION    : San Francisco, CA 🌉</td>
+    <td>ROLE        : Senior Full-Stack Engineer</td>
+    <td>COMPANY     : "@vercel"</td>
+    <td>OPEN_TO     : [collaborations, open-source, cool projects]</td>
+    <td>CURRENTLY   : Building neural-runtime — edge ML inference engine</td>
+    <td>ASK_ME_ABOUT: [TypeScript, Rust, system design, coffee ☕]</td>
+    <td>CONTACT     : alex@dev.io</td>     
   </tr>
 </table>
 
