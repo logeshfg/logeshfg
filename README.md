@@ -1,4 +1,4 @@
-[!{MasterHead](https://i.pinimg.com/originals/66/85/c0/6685c0909dd3b325e668c1d9b1e8ad26.gif)
+[!{MasterHead](https://i.pinimg.com/originals/66/85/c0/6685c0909dd3b325e668c1d9b1e8ad26.gif)]
 <h1 align="center">Hi 👋, I'm Logeshwaran S</h1>
 <h3 align="center">Passionate about learning new things every day..</h3>
 <img align="right" alt="FG_PIC" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*s0y645F7RlrJQ3Nh.gif">
