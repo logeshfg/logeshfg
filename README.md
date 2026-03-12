@@ -4,14 +4,14 @@
 <img align="right" alt="FG_PIC" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*s0y645F7RlrJQ3Nh.gif">
 
 <table border='5px'>
-    <tr><td>NAME        : Alex Chen</td></tr>
-    <tr><td>LOCATION    : San Francisco, CA 🌉</td></tr>
-    <tr><td>ROLE        : Senior Full-Stack Engineer</td></tr>
-    <tr><td>COMPANY     : "@vercel"</td></tr>
+    <tr><td>NAME        : Logeshwaran S</td></tr>
+    <tr><td>DEPARTMENT  : Electronics and Communication Engineering</td></tr>
+    <tr><td>ROLE        : Firware Engineer</td></tr>
+    <tr><td>COMPANY     : "@___"</td></tr>
     <tr><td>OPEN_TO     : [collaborations, open-source, cool projects]</td></tr>
-    <tr><td>CURRENTLY   : Building neural-runtime — edge ML inference engine</td></tr>
-    <tr><td>ASK_ME_ABOUT: [TypeScript, Rust, system design, coffee ☕]</td></tr>
-    <tr><td>CONTACT     : alex@dev.io</td></tr>     
+    <tr><td>CURRENTLY   : Doing well</td></tr>
+    <tr><td>ASK_ME_ABOUT: [Digital Electronics, Semiconductor Devices, Circuit Analysis]</td></tr>
+    <tr><td>CONTACT     : portfolio</td></tr>     
   
 </table>
 
