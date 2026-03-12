@@ -1,10 +1,10 @@
 <img align="center" width="100%" src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif">
-<h1 align="center">Hi 👋, I'm Logeshwaran S</h1>
+<h1 align="center">Hi!, I'm Logeshwaran S</h1>
 <h3 align="center">Passionate about learning new things every day..</h3>
 <img align="right" alt="FG_PIC" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*s0y645F7RlrJQ3Nh.gif">
 
 <table border='5px'>
-    <tr><td style='color:red;'>NAME        : Logeshwaran S</td></tr>
+    <tr><td>NAME        : Logeshwaran S</td></tr>
     <tr><td>DEPARTMENT  : Electronics and Communication Engineering</td></tr>
     <tr><td>ROLE        : Firware Engineer</td></tr>
     <tr><td>COMPANY     : "@___"</td></tr>
