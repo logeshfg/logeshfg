@@ -12,7 +12,6 @@
     <tr><td>CURRENTLY   : Doing well</td></tr>
     <tr><td>ASK_ME_ABOUT: [Digital Electronics, Semiconductor Devices, Circuit Analysis]</td></tr>
     <tr><td>CONTACT     : portfolio</td></tr>     
-  
 </table>
 
 <p align="left"> <a href="https://twitter.com/logeshwaran_229" target="blank"><img src="https://img.shields.io/twitter/follow/logeshwaran_229?logo=twitter&style=for-the-badge" alt="logeshwaran_229" /></a> </p>
