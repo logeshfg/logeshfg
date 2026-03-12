@@ -1,5 +1,4 @@
 <h1 align="center">Hi!, I'm Logeshwaran S</h1>
-<h3 align="center">Passionate about learning new things every day..</h3>
 <img align="center" width="100%" src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif">
 <img align="right" alt="FG_PIC" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*s0y645F7RlrJQ3Nh.gif">
 
