@@ -41,6 +41,77 @@
   
 </table>
 
+<h1 align="center">Hi 👋, I'm Logeshwaran</h1>
+<h3 align="center">Electronics & Communication Engineering Student | Aspiring Full Stack Developer</h3>
+
+---
+
+## 🚀 About Me
+
+- 🎓 1st Year **ECE Student**
+- 💻 Currently learning **Full Stack Development**
+- 🔭 Working on **Web Development & IoT Projects**
+- 🌱 Learning **JavaScript, Python, Embedded Systems**
+- 🎯 Goal: Become a **Professional Full Stack Developer in 2 years**
+- ⚡ Fun fact: I love building **real-world tech projects**
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|--------|-------------|
+| Programming | C, Python, JavaScript |
+| Web Development | HTML, CSS, JavaScript |
+| Embedded Systems | Arduino, ESP32, 8051 |
+| Databases | MongoDB |
+| Tools | Git, GitHub, VS Code |
+
+---
+
+## 📊 GitHub Stats
+
+![Logesh GitHub stats](https://github-readme-stats.vercel.app/api?username=logeshfg&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=logeshfg&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=logeshfg&theme=tokyonight)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|-------|-------------|------|
+| Hangman Game | Backend Hangman game using Flask and MongoDB | Python, Flask |
+| Smart Agriculture System | IoT system for monitoring farm conditions | ESP32 |
+| AI Reminder App | Reminder app for Alzheimer’s patients | AI / Mobile |
+
+---
+
+## 🏆 Achievements
+
+- 📜 Completed **Cisco Certification**
+- 🧠 Built **IoT based projects**
+- 🏆 Participated in **Hackathons**
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/logeshfg
+- LinkedIn: Add your LinkedIn
+- Email: your email
+
+---
+
+⭐️ From [Logeshwaran](https://github.com/logeshfg)
+
+
 <!--
 **logeshfg/logeshfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
