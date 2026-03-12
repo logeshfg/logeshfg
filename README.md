@@ -4,7 +4,7 @@
 <img align="right" alt="FG_PIC" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*s0y645F7RlrJQ3Nh.gif">
 
 <table border='5px'>
-    <tr><td style='color:red'>NAME        : Logeshwaran S</td></tr>
+    <tr><td style='color:red;'>NAME        : Logeshwaran S</td></tr>
     <tr><td>DEPARTMENT  : Electronics and Communication Engineering</td></tr>
     <tr><td>ROLE        : Firware Engineer</td></tr>
     <tr><td>COMPANY     : "@___"</td></tr>
