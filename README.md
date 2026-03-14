@@ -51,12 +51,10 @@ Logeshwaran:
 
 <details>
   <summary>Smart Data Usage Manager</summary>
-  <ul>
-    <summary>Hi</summary>
-    <ul>hello</ul>
-    <summary>Hi1</summary>
-    <ul>hello1</ul>
-  </ul>
+  <summary>Hi</summary>
+  <ul>jkjlkf</ul>
+  <summary>hello</summary>
+  <ul>iooire</ul>
 </details>
 
 
