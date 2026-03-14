@@ -69,10 +69,10 @@ Logeshwaran:
     <tr>
       <td>
          <pre>
-            [1] --> Tracks the daily internet usage.
+    [1] --> Tracks the daily internet usage.
     [2] --> Calculates the unused data.
     [3] --> Sends a notification to the user about the unused data before the data expires
-    [4] --> Automatically download the useful contents like news PDFs, YouTube videos, updates, etc. 
+    [4] --> Automatically download useful content like news PDFs, YouTube videos, updates, etc. 
          </pre>
       </td>
     </tr>
