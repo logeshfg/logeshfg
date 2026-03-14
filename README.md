@@ -67,8 +67,8 @@ Logeshwaran:
   
   <table>
     <tr>
+      <th>Overview</th>
       <td>
-        ### | Overview |
          <pre>
  [1] --> Tracks the daily internet usage.
  [2] --> Calculates the unused data.
