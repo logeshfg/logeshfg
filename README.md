@@ -82,8 +82,8 @@ Logeshwaran:
 
   <table>
     <tr>
-      <th>Moto</th>
-      <tr>To reduce the data wastage</tr>
+      <th>To reduce the data wastage</th>
+      <tr>Moto</tr>
       <td>
         Nowadays we can't able to use the mobile without data. So, recharging becomes the part of our life. But really are we using the data effectively?. Each and every single data waste is our data. We spend the money to buy those data for our use. To use it more effecient manner we have developed the system that tracks the real time data and sends the notification to the user and automatically download the useful contents. 
       </td>
