@@ -82,7 +82,7 @@ Logeshwaran:
 
   <table>
     <tr>
-      <th colspan=1>To reduce the data wastage</th>
+      <th>To reduce the data wastage</th>
       <tr>Moto</tr>
       <td>
         Nowadays, mobile data has become an essential part of our daily lives, and recharging data plans is a routine activity for most users. However, we rarely stop to think about whether we are actually using our data efficiently. Every unit of data that goes unused or is wasted ultimately represents money spent without value.
