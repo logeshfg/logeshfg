@@ -53,16 +53,16 @@ Logeshwaran:
   <summary>Smart Data Usage Manager</summary>
   <pre>
   📦 Data-Usage-Monitor
-   ┣ 📂 esp32
-   ┃ ┣ 📜 main.ino        # ESP32 firmware
-   ┃ ┗ 📜 config.h        # WiFi configuration
+   ┣ 📂 Software
+   ┃ ┣ ----> Displays the network speed and data remaining.        
+   ┃ ┗ ----> Suggest the online content for download.       
    ┣ 📂 backend
-   ┃ ┣ 📜 server.py       # Flask backend
-   ┃ ┗ 📜 database.py     # MongoDB connection
-   ┣ 📂 frontend
-   ┃ ┣ 📜 index.html      # Main dashboard
-   ┃ ┗ 📜 script.js       # API calls
-   ┗ 📜 README.md
+   ┃ ┣ ----> Sends notification to the user about remaining data.    
+   ┃ ┗ ----> Before the data expires.    
+   ┣ 📂 Sources
+   ┃ ┣ 📜 --> [ yt-dlp ] == For autodownload the youtube videos     
+   ┃ ┗ 📜 --> [ Tkinter ] = For sending the pop-up notification.      
+   ┗ 📜 Language --> [ Python ] == Best for data management.
   </pre>
 </details>
 
