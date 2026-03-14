@@ -64,14 +64,12 @@ Logeshwaran:
    ┃ ┗ 📜 --> [ Tkinter ] = For sending the pop-up notification.      
    ┗ 📜 Language --> [ Python ] == Best for data management.
   </pre>
-  <fieldset>
-    <legend>Spec</legend>
-    <p></p>
+  <pre>
     <p>[1] --> Tracks the daily internet usage.</p>
     <p>[2] --> Calculates the unused data.</p>
     <p>[3] --> Sends notification to the user about the unused data before the data expires</p>
     <p>[4] --> Automatically download the useful contents like news PDFs, YouTube videos, updates, etc. </p>
-  </fieldset>
+  </pre>
 </details>
 
 
