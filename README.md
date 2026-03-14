@@ -51,6 +51,7 @@ Logeshwaran:
 
 <details>
   <summary>Smart Data Usage Manager</summary>
+  <br>
   <pre>
   📦 Data-Usage-Monitor
    ┣ 📂 Software
