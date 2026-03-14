@@ -84,9 +84,7 @@ Logeshwaran:
   <tr>
     <th>🎯 Motto</th>
   </tr>
-  <tr>
-    <td><b>To Reduce Data Wastage</b></td>
-  </tr>
+  <th><b>To Reduce Data Wastage</b></th>
   <tr>
     <td>
       Nowadays, mobile data has become an essential part of our daily lives, and recharging data plans is a routine activity for most users. However, we rarely stop to think about whether we are actually using our data efficiently.
