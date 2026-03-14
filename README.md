@@ -65,7 +65,8 @@ Logeshwaran:
    ┗ 📜 Language --> [ Python ] == Best for data management.
   </pre>
   <br>
-  <table>
+ <center>
+     <table>
     <tr>
       <th>Overview</th>
       <td>
@@ -78,6 +79,7 @@ Logeshwaran:
       </td>
     </tr>
   </table>
+ </center>
   <br>
 
   <table>
