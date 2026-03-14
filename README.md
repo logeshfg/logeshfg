@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px">, I'm Logeshwaran S</h1>
+<h1 align="center">Hi, I'm Logeshwaran S</h1>
 <img align="center" width="100%" src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif">
 
 <div id="badges" align="center" >
