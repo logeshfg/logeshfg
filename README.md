@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/Gmail-orangered?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-<h3 align="center">Firmware Engineer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=logeshfg">
@@ -19,8 +18,35 @@
 
 
 
-## ^_^ About Me
-- Passionate about learning new things every day.
+# ^_^ About Me
+
+```yaml
+Logeshwaran:
+    pronouns: "He" | "Him"
+    located_in: Coimbatore, India
+    title: "Firmware Engineer"
+
+    skills:
+      - Core       : [ Digital Electronics, Semiconductor Devices, Circuit Analysis]
+      - Firmware Development
+      - programming: [ C, C++, Python, Verilog, Linux, Git ]
+
+    education:
+      - "Bachelor's in Electronics and Communication Engineering"
+      - "Sri Eshwar College of Engineering"
+      - 2024 - 2028
+
+    fields_of_interests:
+      - Firmware Development
+      - PCB Designing
+      - Embedded and IoT [ Internet of Things ]
+
+    hobbies: ["Drawing", "Listening to Music", "Reading", "Workouts"]
+
+    contact:
+      - Gmail: "logeshwarans837@gmail.com"
+
+```
 
 
 ## 🧠 My Focus Areas
