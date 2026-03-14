@@ -64,7 +64,7 @@ Logeshwaran:
    ┃ ┗ 📜 --> [ Tkinter ] = For sending the pop-up notification.      
    ┗ 📜 Language --> [ Python ] == Best for data management.
   </pre>
-  
+  <br>
   <table>
     <tr>
       <th>Overview</th>
@@ -78,6 +78,7 @@ Logeshwaran:
       </td>
     </tr>
   </table>
+  <br>
   
 </details>
 
