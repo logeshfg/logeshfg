@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=logeshfg">
-    <img src="https://komarev.com/ghpvc/?username=logeshfg&label=Profile%20views&color=orangered&style=flat-square" alt="logeshfg's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=logeshfg&label=Profile%20views&color=red&style=flat-square" alt="logeshfg's profile views" />
   </a>
 </p>
 
