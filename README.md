@@ -22,13 +22,13 @@
 
 ```yaml
 Logeshwaran:
+
     pronouns: "He" | "Him"
     located_in: Coimbatore, India
     title: "Firmware Engineer"
 
     skills:
       - Core       : [ Digital Electronics, Semiconductor Devices, Circuit Analysis]
-      - Firmware Development
       - programming: [ C, C++, Python, Verilog, Linux, Git ]
 
     education:
