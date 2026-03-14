@@ -51,7 +51,7 @@ Logeshwaran:
 
 <details>
   <summary>Smart Data Usage Manager</summary>
-  ```bash
+  <pre>
   📦 Data-Usage-Monitor
    ┣ 📂 esp32
    ┃ ┣ 📜 main.ino        # ESP32 firmware
@@ -63,7 +63,7 @@ Logeshwaran:
    ┃ ┣ 📜 index.html      # Main dashboard
    ┃ ┗ 📜 script.js       # API calls
    ┗ 📜 README.md
-  ```
+  </pre>
 </details>
 
 
