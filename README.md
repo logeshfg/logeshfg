@@ -51,10 +51,19 @@ Logeshwaran:
 
 <details>
   <summary>Smart Data Usage Manager</summary>
-  <summary>Hi</summary>
-  <ul>jkjlkf</ul>
-  <summary>hello</summary>
-  <ul>iooire</ul>
+  ```bash
+  📦 Data-Usage-Monitor
+   ┣ 📂 esp32
+   ┃ ┣ 📜 main.ino        # ESP32 firmware
+   ┃ ┗ 📜 config.h        # WiFi configuration
+   ┣ 📂 backend
+   ┃ ┣ 📜 server.py       # Flask backend
+   ┃ ┗ 📜 database.py     # MongoDB connection
+   ┣ 📂 frontend
+   ┃ ┣ 📜 index.html      # Main dashboard
+   ┃ ┗ 📜 script.js       # API calls
+   ┗ 📜 README.md
+  ```
 </details>
 
 
