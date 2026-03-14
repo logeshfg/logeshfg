@@ -81,17 +81,22 @@ Logeshwaran:
   <br>
 
   <table>
-    <tr>
-      <th>To reduce the data wastage</th>
-      <tr>Moto</tr>
-      <td>
-        Nowadays, mobile data has become an essential part of our daily lives, and recharging data plans is a routine activity for most users. However, we rarely stop to think about whether we are actually using our data efficiently. Every unit of data that goes unused or is wasted ultimately represents money spent without value.
-      </td>
+  <tr>
+    <th>🎯 Motto: To Reduce Data Wastage</th>
+  </tr>
+
+  <tr>
+    <td>
+      Nowadays, mobile data has become an essential part of our daily lives, and recharging data plans is a routine activity for most users. However, we rarely stop to think about whether we are actually using our data efficiently. Every unit of data that goes unused or is wasted ultimately represents money spent without value.
+    </td>
+  </tr>
+
+  <tr>
     <td>
       To address this issue, we have developed a system that monitors real-time data usage and helps users utilize their data more effectively. The system tracks the amount of data being consumed, sends timely notifications to the user, and automatically downloads useful content so that the available data is used in a more productive and efficient manner.
     </td>
-    </tr>
-  </table>
+  </tr>
+</table>
   
 </details>
 
