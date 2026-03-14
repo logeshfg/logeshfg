@@ -64,6 +64,9 @@ Logeshwaran:
    ┃ ┗ 📜 --> [ Tkinter ] = For sending the pop-up notification.      
    ┗ 📜 Language --> [ Python ] == Best for data management.
   </pre>
+  <legend>
+    hi
+  </legend>
 </details>
 
 
