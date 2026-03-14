@@ -85,7 +85,10 @@ Logeshwaran:
       <th>To reduce the data wastage</th>
       <tr>Moto</tr>
       <td>
-        Nowadays we can't able to use the mobile without data. So, recharging becomes the part of our life. But really are we using the data effectively?. Each and every single data waste is our data. We spend the money to buy those data for our use. To use it more effecient manner we have developed the system that tracks the real time data and sends the notification to the user and automatically download the useful contents. 
+        Nowadays, mobile data has become an essential part of our daily lives, and recharging data plans is a routine activity for most users. However, we rarely stop to think about whether we are actually using our data efficiently. Every unit of data that goes unused or is wasted ultimately represents money spent without value.
+
+To address this issue, we have developed a system that monitors real-time data usage and helps users utilize their data more effectively. The system tracks the amount of data being consumed, sends timely notifications to the user, and automatically downloads useful content so that the available data is used in a more productive and efficient manner.
+ 
       </td>
     </tr>
   </table>
