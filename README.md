@@ -11,9 +11,9 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
 
-## 📌 About Me
+
+## ^_^ About Me
 - Passionate about learning new things every day.
 
 
