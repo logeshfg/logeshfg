@@ -3,10 +3,10 @@
 <img align="right" alt="FG_PIC" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*s0y645F7RlrJQ3Nh.gif">
 
 <div id="badges" align="center" >
-  <a href="https://www.linkedin.com/in/sree-vishnu-varthini-s">
+  <a href="https://linkedin.com/in/logeshfg229">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:sreevishnuvarthini@gmail.com">
+  <a href="mailto:logeshwarans837@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
