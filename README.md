@@ -103,7 +103,7 @@ To address this issue, we have developed a system that monitors real-time data u
 </details>
 
 
-## 📊 GitHub Stats & Trophies
+## <img src="https://em-content.zobj.net/source/telegram/386/chart-increasing_1f4c8.webp"> GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/logeshfg">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=logeshfg&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="logeshfg's GitHub Stats" />
