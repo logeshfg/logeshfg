@@ -101,6 +101,8 @@ To address this issue, we have developed a system that monitors real-time data u
 </table>
   
 </details>
+<br>
+<br>
 
 
 ## <img src="https://em-content.zobj.net/source/telegram/386/chart-increasing_1f4c8.webp" width="25">GitHub Stats & Trophies
