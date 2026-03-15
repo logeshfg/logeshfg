@@ -134,12 +134,6 @@ To address this issue, we have developed a system that monitors real-time data u
 
 > ## Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /></p>
-
-<p align="center">
-  <a href="https://github.com/logeshfg">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=logeshfg&langs_count=8&layout=compact&theme=monokai&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 <br>
 
 # <img src="https://img.icons8.com/?size=100&id=ScGO4VqzFG8v&format=png&color=FA5252" width="25"> GitHub Stats & Trophies
