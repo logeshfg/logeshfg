@@ -67,7 +67,7 @@ Logeshwaran:
   </pre>
   <br>
  <center>
-     <table>
+     <table align="center">
     <tr>
       <th>Overview</th>
       <td>
