@@ -140,7 +140,8 @@ To address this issue, we have developed a system that monitors real-time data u
   </a>
 </p>
 <br>
-## <img src="https://img.icons8.com/?size=100&id=ScGO4VqzFG8v&format=png&color=FA5252" width="25"> GitHub Stats & Trophies
+
+# <img src="https://img.icons8.com/?size=100&id=ScGO4VqzFG8v&format=png&color=FA5252" width="25"> GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/logeshfg">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=logeshfg&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="logeshfg's GitHub Stats" />
