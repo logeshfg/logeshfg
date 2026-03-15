@@ -120,7 +120,7 @@ To address this issue, we have developed a system that monitors real-time data u
 </p>
 
 
-## <img src="https://img.icons8.com/?size=100&id=vxZSZYDyqjbH&format=png&color=red" width="25"> Languages & Tools
+## <img src="https://img.icons8.com/?size=100&id=eYYHPqJZgusN&format=png&color=FA5252" width="25"> Languages & Tools
 
 > ## Programming Languages
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
