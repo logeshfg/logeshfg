@@ -145,7 +145,9 @@ To address this issue, we have developed a system that monitors real-time data u
 
 
 ## <img src="https://img.icons8.com/?size=100&id=37948&format=png&color=FA5252" width="25"> Quote
-> "Life is just collecting the people to come at your funeral."
+> <table border="5px">
+  <tr> "Life is just collecting the people to come at your funeral." </tr>
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
