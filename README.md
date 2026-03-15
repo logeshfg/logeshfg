@@ -144,7 +144,7 @@ To address this issue, we have developed a system that monitors real-time data u
 
 # <img src="https://img.icons8.com/?size=100&id=ScGO4VqzFG8v&format=png&color=FA5252" width="25"> GitHub Stats & Trophies
 
-<table align="center" border="2" bordercolor="red" width="100%">
+<table align="center" border="2" bordercolor="ff0000" width="100%">
 <tr>
 <td align="center">
 
@@ -156,7 +156,7 @@ To address this issue, we have developed a system that monitors real-time data u
 
 <br>
 
-<table align="center" border="2" bordercolor="red" width="100%">
+<table align="center" border="2" bordercolor="ff0000" width="100%">
 <tr>
 <td align="center">
 
@@ -174,7 +174,7 @@ To address this issue, we have developed a system that monitors real-time data u
 
 <br>
 
-<table align="center" border="2" bordercolor="red" width="100%">
+<table align="center" border="2" bordercolor="ff0000" width="100%">
 <tr>
 <td align="center">
 
