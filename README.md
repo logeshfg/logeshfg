@@ -117,23 +117,6 @@ To address this issue, we have developed a system that monitors real-time data u
 </details>
 <br>
 <br>
-
-
-## <img src="https://img.icons8.com/?size=100&id=ScGO4VqzFG8v&format=png&color=FA5252" width="25"> GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/logeshfg">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=logeshfg&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="logeshfg's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=logeshfg&theme=monokai&hide_border=true&cache_seconds=86400" alt="logeshfg's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=logeshfg&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Logeshwaran S's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=logeshfg&theme=monokai&radius=10" alt="logeshfg's Activity Graph" />
-</p>
-
-
 ## <img src="https://img.icons8.com/?size=100&id=8801&format=png&color=FA5252" width="25"> Languages & Tools
 
 > ## Programming Languages
@@ -156,6 +139,23 @@ To address this issue, we have developed a system that monitors real-time data u
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=logeshfg&langs_count=8&layout=compact&theme=monokai&border_radius=10" alt="Top Languages" />
   </a>
 </p>
+<br>
+## <img src="https://img.icons8.com/?size=100&id=ScGO4VqzFG8v&format=png&color=FA5252" width="25"> GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/logeshfg">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=logeshfg&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="logeshfg's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=logeshfg&theme=monokai&hide_border=true&cache_seconds=86400" alt="logeshfg's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=logeshfg&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Logeshwaran S's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=logeshfg&theme=monokai&radius=10" alt="logeshfg's Activity Graph" />
+</p>
+
+
+
 
 
 ## <img src="https://img.icons8.com/?size=100&id=37948&format=png&color=FA5252" width="25"> Quote
