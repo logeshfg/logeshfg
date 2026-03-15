@@ -18,7 +18,7 @@
 
 
 
-# ^_~ About Me
+# <img src="https://img.icons8.com/?size=100&id=a3baYGSexl8I&format=png&color=FA5252" width="25"> About Me
 
 ```yaml
 Logeshwaran:
