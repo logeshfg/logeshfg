@@ -235,21 +235,12 @@ To address this issue, we have developed a system that monitors real-time data u
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
-<br>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
 </p>
 <br>
 
-<!-- Red wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
-
-<!-- Gradient wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=120&section=footer"/>
 
 <!--
 **logeshfg/logeshfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
