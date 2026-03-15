@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Logeshwaran S</h1>
+<h1 align="center"><img src="https://img.icons8.com/?size=100&id=t9MXyCBFIJCB&format=png&color=FA5252" width="30">, I'm Logeshwaran S</h1>
 <img align="center" width="100%" src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif">
 
 <div id="badges" align="center" >
