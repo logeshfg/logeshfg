@@ -164,7 +164,7 @@ To address this issue, we have developed a system that monitors real-time data u
 </tr>
 
 <tr>
-<td align="center">
+<td colspan="2" align="center">
 
 ### Tools
 
