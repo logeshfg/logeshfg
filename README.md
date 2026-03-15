@@ -136,6 +136,72 @@ To address this issue, we have developed a system that monitors real-time data u
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /></p>
 <br>
 
+# <img src="https://img.icons8.com/?size=100&id=8801&format=png&color=FA5252" width="25"> Languages & Tools
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### Programming Languages
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### Frontend
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### Database
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+
+</td>
+
+<td align="center">
+
+### DevOps & Cloud
+
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### Tools
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+
+</td>
+
+<td align="center">
+
+<!-- Empty cell for balance -->
+
+</td>
+</tr>
+</table>
+
+<br>
+
 # <img src="https://img.icons8.com/?size=100&id=ScGO4VqzFG8v&format=png&color=FA5252" width="25"> GitHub Stats & Trophies
 
 <table align="center" border="2" bordercolor="ff0000" width="100%">
