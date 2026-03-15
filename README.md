@@ -224,7 +224,7 @@ To address this issue, we have developed a system that monitors real-time data u
 
 
 ## <img src="https://img.icons8.com/?size=100&id=37948&format=png&color=FA5252" width="25"> Quote
-<table align="center" text="italic">
+<table align="center">
   <th></th>
   <tr>
     <td>"Life is just collecting the people to come at your funeral."</td>
