@@ -156,7 +156,47 @@ To address this issue, we have developed a system that monitors real-time data u
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=logeshfg&theme=monokai&radius=10" alt="logeshfg's Activity Graph" />
 </p>
 
+# <img src="https://img.icons8.com/?size=100&id=ScGO4VqzFG8v&format=png&color=FA5252" width="25"> GitHub Stats & Trophies
 
+<table align="center" border="2" bordercolor="red" width="100%">
+<tr>
+<td align="center">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=logeshfg&theme=monokai&border_color=ff0000&border_radius=10" width="100%">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center" border="2" bordercolor="red" width="100%">
+<tr>
+<td align="center">
+
+<img src="https://streak-stats.demolab.com/?user=logeshfg&theme=monokai&hide_border=false&border=ff0000">
+
+</td>
+
+<td align="center">
+
+<img src="https://trophy.ryglcloud.net/?username=logeshfg&theme=monokai&no-bg=true&margin-w=5">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center" border="2" bordercolor="red" width="100%">
+<tr>
+<td align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=logeshfg&theme=monokai&radius=10&color=ff0000&line=ff0000">
+
+</td>
+</tr>
+</table>
 
 
 
