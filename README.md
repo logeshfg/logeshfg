@@ -243,6 +243,13 @@ To address this issue, we have developed a system that monitors real-time data u
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
 </p>
+<br>
+
+<!-- Red wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
+
+<!-- Gradient wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=120&section=footer"/>
 
 <!--
 **logeshfg/logeshfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
