@@ -145,7 +145,7 @@ To address this issue, we have developed a system that monitors real-time data u
 # <img src="https://img.icons8.com/?size=100&id=ScGO4VqzFG8v&format=png&color=FA5252" width="25"> GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/logeshfg">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=logeshfg&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="logeshfg's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=logeshfg&cache_seconds=7200&layout=compact&card_width=1010&border_color=red&theme=monokai&border_radius=10" alt="logeshfg's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=logeshfg&theme=monokai&hide_border=true&cache_seconds=86400" alt="logeshfg's GitHub Streak" width="49%" />
 </p>
