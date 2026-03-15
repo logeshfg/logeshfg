@@ -100,7 +100,7 @@ Logeshwaran:
 
   <table>
   <tr>
-    <th>🎯 Motto</th>
+    <th><img src="https://img.icons8.com/?size=100&id=NsSZTVqoT8ie&format=png&color=FA5252" width="25"> Motto</th>
   </tr>
   <th><b>To Reduce Data Wastage</b></th>
   <tr>
