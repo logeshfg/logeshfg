@@ -47,7 +47,7 @@ Logeshwaran:
       - Gmail: "logeshwarans837@gmail.com"
 
 ```
-# My Projects
+# <img src="https://img.icons8.com/?size=100&id=BNtHq0Qb8scf&format=png&color=FA5252" width="25">My Projects
 
 <details>
   <summary>Smart Data Usage Manager</summary>
