@@ -1,5 +1,7 @@
 <h1 align="center"><img src="https://img.icons8.com/?size=100&id=t9MXyCBFIJCB&format=png&color=FA5252" width="49">, I'm </h1>
 
+
+<img align="center" width="100%" src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120">
   <text y="15" fill="red" font-family="monospace" font-size="12" font-weight="bold">
     <!-- SVG text doesn't support multiline well, so use image approach below -->
@@ -13,8 +15,6 @@
     </pre>
   </text>
 </svg>
-<img align="center" width="100%" src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif">
-
 <div id="badges" align="center" >
   <a href="https://linkedin.com/in/logeshfg229">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
