@@ -118,7 +118,6 @@ To address this issue, we have developed a system that monitors real-time data u
 </details>
 <br>
 
-
 <details>
   <summary>Automatic Railway Gate Controller</summary>
 </details>
