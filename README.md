@@ -120,6 +120,8 @@ To address this issue, we have developed a system that monitors real-time data u
 
 <details>
   <summary>Automatic Railway Gate Controller</summary>
+  <br>
+  
 </details>
 
 <br>
