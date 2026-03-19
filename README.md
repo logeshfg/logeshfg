@@ -118,6 +118,13 @@ To address this issue, we have developed a system that monitors real-time data u
 </details>
 <br>
 
+
+<details>
+  <summary>Automatic Railway Gate Controller</summary>
+</details>
+
+<br>
+
 # <img src="https://img.icons8.com/?size=100&id=8801&format=png&color=FA5252" width="25"> Languages & Tools
 
 <table align="center">
