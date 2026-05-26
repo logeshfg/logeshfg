@@ -179,7 +179,7 @@ To address this issue, we have developed a system that monitors real-time data u
 ### Tools
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="45"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
 
 </td>
