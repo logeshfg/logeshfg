@@ -294,17 +294,7 @@ To address this issue, we have developed a system that monitors real-time data u
 </p>
 <br>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=logeshfg&theme=github-dark)
 
----
-
-## ⚡ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=logeshfg&show_icons=true&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=logeshfg&theme=github-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logeshfg&layout=compact&theme=github_dark)
 <!--
 **logeshfg/logeshfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
