@@ -99,9 +99,9 @@ Logeshwaran:
       <td>
          <pre>
  [1] <img src="https://img.icons8.com/?size=100&id=duaGEiW2Javy&format=png&color=FA5252" width="11"> Tracks the daily internet usage.
- [2] --> Calculates the unused data.
- [3] --> Sends a notification to the user about the unused data before the data expires
- [4] --> Automatically download useful content like news PDFs, YouTube videos, updates, etc. 
+ [2] <img src="https://img.icons8.com/?size=100&id=duaGEiW2Javy&format=png&color=FA5252" width="11"> Calculates the unused data.
+ [3] <img src="https://img.icons8.com/?size=100&id=duaGEiW2Javy&format=png&color=FA5252" width="11"> Sends a notification to the user about the unused data before the data expires
+ [4] <img src="https://img.icons8.com/?size=100&id=duaGEiW2Javy&format=png&color=FA5252" width="11"> Automatically download useful content like news PDFs, YouTube videos, updates, etc. 
          </pre>
       </td>
     </tr>
