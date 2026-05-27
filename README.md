@@ -21,7 +21,7 @@
      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
   <a href="mailto:logeshwarans837@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-orangered?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+     <img src="https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=000000" width="100">
   </a>
   <a href="https://www.instagram.com/fg__logesh229">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
