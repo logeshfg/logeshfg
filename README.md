@@ -79,7 +79,7 @@ Logeshwaran:
   <summary>Smart Data Usage Manager</summary>
   <br>
   <pre>
-  📦 Data-Usage-Monitor
+  <img src="https://img.icons8.com/?size=100&id=zhEYiKKZWZfh&format=png&color=FA5252" width="19"> Data-Usage-Monitor
    ┣ <img src="https://img.icons8.com/?size=100&id=q6OKDrR6BxFR&format=png&color=FA5252" width="15"> Software
    ┃ ┣ ----> Displays the network speed and data remaining.        
    ┃ ┗ ----> Suggest the online content for download.       
