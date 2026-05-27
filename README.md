@@ -18,7 +18,7 @@
 
 <div id="badges" align="center" >
   <a href="https://linkedin.com/in/logeshfg229">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
   </a>
   <a href="mailto:logeshwarans837@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-orangered?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
