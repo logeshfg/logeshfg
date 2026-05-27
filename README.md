@@ -33,6 +33,7 @@
   <a href="https://x.com/Logeshwaran_229">
     <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70">
   </a>
+  <img src="https://img.icons8.com/?size=100&id=41200&format=png&color=FA5252">
 </div>
 
 <p align="center">
