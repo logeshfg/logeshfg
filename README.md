@@ -80,7 +80,7 @@ Logeshwaran:
   <br>
   <pre>
   📦 Data-Usage-Monitor
-   ┣ <img src="https://img.icons8.com/?size=100&id=2939&format=png&color=FA5252" width="10"> Software
+   ┣ <img src="https://img.icons8.com/?size=100&id=2939&format=png&color=FA5252" width="20"> Software
    ┃ ┣ ----> Displays the network speed and data remaining.        
    ┃ ┗ ----> Suggest the online content for download.       
    ┣ 📂 backend
