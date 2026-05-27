@@ -87,9 +87,9 @@ Logeshwaran:
    ┃ ┣ ----> Sends notification to the user about remaining data.    
    ┃ ┗ ----> Before the data expires.    
    ┣ <img src="https://img.icons8.com/?size=100&id=2939&format=png&color=FA5252" width="15"> Sources
-   ┃ ┣ 📜 --> [ yt-dlp ] == For autodownload the youtube videos     
-   ┃ ┗ 📜 --> [ Tkinter ] = For sending the pop-up notification.      
-   ┗ 📜 Language --> [ Python ] == Best for data management.
+   ┃ ┣ <img src="https://img.icons8.com/?size=100&id=i426cfMKcE3l&format=png&color=FA5252" width="15"> --> [ yt-dlp ] == For autodownload the youtube videos     
+   ┃ ┗ <img src="https://img.icons8.com/?size=100&id=i426cfMKcE3l&format=png&color=FA5252" width="15"> --> [ Tkinter ] = For sending the pop-up notification.      
+   ┗ <img src="https://img.icons8.com/?size=100&id=i426cfMKcE3l&format=png&color=FA5252" width="15"> Language --> [ Python ] == Best for data management.
   </pre>
   <br>
  <center>
