@@ -17,6 +17,7 @@
 </svg>
 
 <div id="badges" align="center" >
+  <img src="https://img.icons8.com/?size=100&id=41201&format=png&color=FA5252">
   <a href="https://linkedin.com/in/logeshfg229" target="_blank" rel="noopener noreferrer">
      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70">
   </a>
