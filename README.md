@@ -17,7 +17,7 @@
 </svg>
 
 <div id="badges" align="center" >
-  <img src="https://img.icons8.com/?size=100&id=41201&format=png&color=FA5252" width="60">
+  <img src="https://img.icons8.com/?size=100&id=41201&format=png&color=FA5252" width="50">
   <a href="https://linkedin.com/in/logeshfg229" target="_blank" rel="noopener noreferrer">
      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70">
   </a>
@@ -33,7 +33,7 @@
   <a href="https://x.com/Logeshwaran_229">
     <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70">
   </a>
-  <img src="https://img.icons8.com/?size=100&id=41200&format=png&color=FA5252" width="60">
+  <img src="https://img.icons8.com/?size=100&id=41200&format=png&color=FA5252" width="50">
 </div>
 
 <p align="center">
