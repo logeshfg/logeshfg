@@ -83,10 +83,10 @@ Logeshwaran:
    ┣ <img src="https://img.icons8.com/?size=100&id=2939&format=png&color=FA5252" width="15"> Software
    ┃ ┣ ----> Displays the network speed and data remaining.        
    ┃ ┗ ----> Suggest the online content for download.       
-   ┣ 📂 backend
+   ┣ <img src="https://img.icons8.com/?size=100&id=2939&format=png&color=FA5252" width="15"> backend
    ┃ ┣ ----> Sends notification to the user about remaining data.    
    ┃ ┗ ----> Before the data expires.    
-   ┣ 📂 Sources
+   ┣ <img src="https://img.icons8.com/?size=100&id=2939&format=png&color=FA5252" width="15"> Sources
    ┃ ┣ 📜 --> [ yt-dlp ] == For autodownload the youtube videos     
    ┃ ┗ 📜 --> [ Tkinter ] = For sending the pop-up notification.      
    ┗ 📜 Language --> [ Python ] == Best for data management.
