@@ -1,7 +1,8 @@
 <h1 align="center"><img src="https://img.icons8.com/?size=100&id=t9MXyCBFIJCB&format=png&color=FA5252" width="49">, I'm </h1>
 
 
-<img align="center" width="100%" src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif">
+<!--<img align="center" width="100%" src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif">-->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120">
   <text y="15" fill="red" font-family="monospace" font-size="12" font-weight="bold">
     <!-- SVG text doesn't support multiline well, so use image approach below -->
