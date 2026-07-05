@@ -39,7 +39,7 @@
 
 
 <h3 align="center">🌐 Connect With Me</h3>
-
+<img src="https://img.icons8.com/?size=100&id=41201&format=png&color=FA5252" width="65">
 <table align="center" width="100%">
 <tr>
 
@@ -75,6 +75,7 @@
 
 </tr>
 </table>
+<img src="https://img.icons8.com/?size=100&id=41200&format=png&color=FA5252" width="65">
 
 
 
