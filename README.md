@@ -19,7 +19,7 @@
 
 
 
-<h3 align="center"> <img src="https://img.icons8.com/?size=100&id=7ooA2B2qtiTu&format=png&color=FA5252" width="15">Connect With Me</h3>
+<h3 align="center"> <img src="https://img.icons8.com/?size=100&id=7ooA2B2qtiTu&format=png&color=FA5252" width="18"> Connect With Me</h3>
 <table align="center" width="100%">
 <tr>
 
