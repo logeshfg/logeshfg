@@ -305,11 +305,12 @@ To address this issue, we have developed a system that monitors real-time data u
 </tr>
 
 <tr>
-<td align="left">
+<td align="right">
 
 <b>👨‍💻 Logeshwaran S</b><br>
 
-Building • Learning • Trading
+A Man will die, but not his Ideas!
+~ Happy Nation..
 
 </td>
 </tr>
