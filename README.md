@@ -322,7 +322,7 @@ To address this issue, we have developed a system that monitors real-time data u
 
 ### <img src="https://img.icons8.com/?size=100&id=123472&format=png&color=FA5252" width="18"> Personal Branding
 
-<table>
+<table width="900">
 <tr>
 <td>
 
@@ -333,23 +333,28 @@ To address this issue, we have developed a system that monitors real-time data u
 
 <tr>
 <!-- Left Side -->
-<td align="left" width="50%">
-
-<a href="https://www.youtube.com/@logeshwarans229">
-  <img src="https://img.icons8.com/?size=100&id=55200&format=png&color=FA5252"
+<td>
+<table width="100%">
+<tr>
+  <!--Left-->
+  <td align="left">
+    <a href="https://www.youtube.com/@logeshwarans229">
+      <img src="https://img.icons8.com/?size=100&id=55200&format=png&color=FA5252"
        alt="YouTube"
        width="22">
-</a>
+    </a>
+  </td>
 
+  <!-- Right Side -->
+  <td align="right">
+    <b> <img src="https://img.icons8.com/?size=100&id=RtB2Iw4Wrg6G&format=png&color=FA5252"       width="15"> Logeshwaran S</b><br>
+     A Man will die, but not his Ideas <img src="https://img.icons8.com/?  size=100&id=74&format=png&color=FA5252" width="15">
+
+  </td>
+
+  </tr>
+</table>
 </td>
-
-<!-- Right Side -->
-<td align="right" width="50%">
-<b> <img src="https://img.icons8.com/?size=100&id=RtB2Iw4Wrg6G&format=png&color=FA5252" width="15"> Logeshwaran S</b><br>
-A Man will die, but not his Ideas <img src="https://img.icons8.com/?size=100&id=74&format=png&color=FA5252" width="15">
-
-</td>
-
 </tr>
 </table>
 
