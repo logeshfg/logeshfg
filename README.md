@@ -339,7 +339,7 @@ To address this issue, we have developed a system that monitors real-time data u
   <!--Left-->
   <td align="left">
     <a href="https://www.youtube.com/@logeshwarans229">
-      <img src="https://img.icons8.com/?size=100&id=55200&format=png&color=FA5252" alt="YouTube" width="22">
+      <img src="https://img.icons8.com/?size=100&id=55200&format=png&color=FA5252" alt="YouTube" width="30">
     </a>
   </td>
   <td>-----------------------------------------------------------------------------------------</td>
