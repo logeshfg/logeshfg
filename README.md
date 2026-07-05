@@ -308,7 +308,7 @@ To address this issue, we have developed a system that monitors real-time data u
 <td align="right">
 
 <b> <img src="https://img.icons8.com/?size=100&id=RtB2Iw4Wrg6G&format=png&color=FA5252" width="15"> Logeshwaran S</b><br>
-A Man will die, but not his Ideas!
+A Man will die, but not his Ideas <img src="https://img.icons8.com/?size=100&id=74&format=png&color=FA5252" width="15">
 
 </td>
 </tr>
