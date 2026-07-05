@@ -291,9 +291,31 @@ To address this issue, we have developed a system that monitors real-time data u
 </p>
 
 
-<p align="center">
-  <img src="Logeshwaran S.png" width="100%" alt="Footer">
-</p>
+<div align="center">
+
+### 📦 Personal Branding
+
+<table>
+<tr>
+<td>
+
+<img src="Logeshwaran S.png" width="900">
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b>👨‍💻 Logeshwaran S</b><br>
+
+Building • Learning • Trading
+
+</td>
+</tr>
+</table>
+
+</div>
 
 
 <p align="center">
