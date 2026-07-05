@@ -293,7 +293,7 @@ To address this issue, we have developed a system that monitors real-time data u
 
 <div align="center">
 
-### <img src="https://img.icons8.com/?size=100&id=xqnhXygnp1N2&format=png&color=FA5252" width="11"> Personal Branding
+### <img src="https://img.icons8.com/?size=100&id=xqnhXygnp1N2&format=png&color=FA5252" width="18"> Personal Branding
 
 <table>
 <tr>
