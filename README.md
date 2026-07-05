@@ -337,13 +337,13 @@ To address this issue, we have developed a system that monitors real-time data u
 <table width="100%">
 <tr>
   <!--Left-->
-  <td align="left">
+  <td align="left" width="100%">
     <a href="https://www.youtube.com/@logeshwarans229">
       <img src="https://img.icons8.com/?size=100&id=55200&format=png&color=FA5252" alt="YouTube" width="22">
     </a>
   </td>
   <!-- Right Side -->
-  <td align="right">
+  <td align="right" width="100%">
     <b> <img src="https://img.icons8.com/?size=100&id=RtB2Iw4Wrg6G&format=png&color=FA5252" width="15"> Logeshwaran S</b><br>
      A Man will die, but not his Ideas <img src="https://img.icons8.com/?size=100&id=74&format=png&color=FA5252" width="15">
 
