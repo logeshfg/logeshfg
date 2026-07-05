@@ -308,9 +308,7 @@ To address this issue, we have developed a system that monitors real-time data u
 <td align="right">
 
 <b>👨‍💻 Logeshwaran S</b><br>
-
 A Man will die, but not his Ideas!
-~ Happy Nation..
 
 </td>
 </tr>
