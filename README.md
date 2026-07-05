@@ -305,7 +305,7 @@ To address this issue, we have developed a system that monitors real-time data u
 </tr>
 
 <tr>
-<td align="center">
+<td align="left" width="250">
 
 <b>👨‍💻 Logeshwaran S</b><br>
 
